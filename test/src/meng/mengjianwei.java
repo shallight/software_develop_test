@@ -5,4 +5,8 @@ public class mengjianwei {
     {
         System.out.println("mengjianwei");
     }
+    public void methodMJW()
+    {
+        System.out.println("mengjianwei");
+    }
 }
