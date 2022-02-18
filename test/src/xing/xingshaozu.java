@@ -3,6 +3,6 @@ package xing;
 public class xingshaozu {
     static public void method()
     {
-        System.out.println("xingshaozu");
+        System.out.println("jingshaozu say hello");
     }
 }
